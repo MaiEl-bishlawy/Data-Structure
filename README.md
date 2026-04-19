@@ -27,6 +27,7 @@ This project is a simple implementation of a **Singly Linked List** in C++ as pa
 ## 📂 Project Structure
 
 LinkedList/
+
 │
 
 ├── main.cpp
