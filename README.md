@@ -39,6 +39,45 @@ Implementation of **Queue** using two approaches:
 
 ---
 
+## 3. Stack (LIFO - Last In First Out)
+
+Implementation of **Stack** using three approaches:
+- Static Stack (fixed array)
+- Dynamic Stack (resizable array)
+- Linked Stack (linked list)
+
+### Features:
+- Push (Insert element)
+- Pop (Remove element)
+- Peek (Top element)
+- Display stack
+- Get size
+- Copy stack (Linked Stack)
+
+---
+
+## 4. Binary Search Tree (BST)
+
+A full implementation of **Binary Search Tree**.
+
+### Features:
+- Insert nodes
+- Search for a value
+- Delete nodes (leaf / one child / two children)
+- Traversals:
+  - Inorder
+  - Preorder
+  - Postorder
+- Find minimum and maximum values
+- Tree statistics:
+  - Total nodes
+  - Leaf nodes
+  - Internal (parent) nodes
+  - Height of tree / node
+  - Depth of a node
+
+---
+
 # 🛠️ Technologies Used
 
 - C++
@@ -55,4 +94,3 @@ Implementation of **Queue** using two approaches:
 | Enqueue  | O(1)       |
 | Dequeue  | O(1)       |
 | Peek     | O(1)       |
-
