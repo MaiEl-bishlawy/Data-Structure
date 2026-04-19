@@ -15,33 +15,6 @@ void Go() {
 #endif
 }
 
-/*
-# Stack Implementation in C++
-
-This project includes three implementations of Stack:
-
-## Types
-- Static Stack (fixed array)
-- Dynamic Stack (resizable array)
-- Linked Stack (linked list)
-
-## Features
-- Push
-- Pop
-- Peek
-- Display
-- Size
-- Copy (Linked Stack)
-
-Time Complexity:
-- Push: O(1)
-- Pop: O(1)
-- Peek: O(1)
-
-## Purpose
-Understanding stack behavior (LIFO) using different approaches.
-*/
-
 class StaticStack {
     static const int s = 5;
     int top;
