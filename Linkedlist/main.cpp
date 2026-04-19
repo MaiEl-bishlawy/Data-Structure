@@ -14,31 +14,6 @@ void Go() {
 #endif
 }
 
-/*
-Singly Linked List Implementation in C++
-
-Features:
-- Insert (begin, end, by value, by index)
-- Delete (begin, end, by value, by index)
-- Update (by value / index)
-- Search
-- Count nodes
-- Reverse
-- Traverse (returns vector)
-
-Time Complexity:
-- Insert at beginning: O(1)
-- Insert at end: O(n)
-- Insert at position: O(n)
-- Delete at beginning: O(1)
-- Delete at end: O(n)
-- Search: O(n)
-- Access by index: O(n)
-
-Purpose:
-Understanding basic Linked List operations and pointer manipulation.
-*/
-
 class Node {
 public :
     int data;
