@@ -18,41 +18,6 @@ void GO() {
 #endif
 }
 
-/*
-# Binary Search Tree (BST) Implementation in C++
-
-This project implements a Binary Search Tree with full functionality.
-
-## Features:
-- Insert nodes
-- Search for a value
-- Delete nodes (leaf / one child / two children)
-- Traversals:
-  - Inorder
-  - Preorder
-  - Postorder
-- Find:
-  - Minimum value
-  - Maximum value
-- Tree statistics:
-  - Total nodes
-  - Leaf nodes
-  - Parent (internal) nodes
-  - Height of tree / node
-  - Depth of a node
-
-## Complexity:
-- Insert: O(h)
-- Search: O(h)
-- Delete: O(h)
-- Traversals: O(n)
-
-Where h is the height of the tree.
-
-## Purpose:
-Understanding hierarchical data structure and recursive algorithms.
-*/
-
 class Node {
 public :
     int data;
