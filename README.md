@@ -1,11 +1,16 @@
-# Linked List Implementation in C++
+# Data Structures in C++
 
-This project is a simple implementation of a **Singly Linked List** in C++ as part of Data Structures practice.
+This repository contains implementations of fundamental **Data Structures** in C++ for learning and practice.
 
 ---
 
-## 📌 Features
+# 📌 Included Data Structures
 
+## 1. Singly Linked List
+
+A simple implementation of a **Singly Linked List** using OOP.
+
+### Features:
 - Insert at beginning
 - Insert at end
 - Insert at specific position
@@ -16,84 +21,38 @@ This project is a simple implementation of a **Singly Linked List** in C++ as pa
 
 ---
 
-## 🛠️ Technologies Used
+## 2. Queue (FIFO - First In First Out)
 
-- C++
-- Object-Oriented Programming (OOP)
-- CLion / Any C++ IDE
+Implementation of **Queue** using two approaches:
+- Dynamic Array
+- Linked List
 
----
-
-## 📂 Project Structure
-
-LinkedList/
-
-│
-
-├── main.cpp
-
-├── LinkedList.h
-
-├── LinkedList.cpp
-
-└── README.md
-
-
----
-
-## ▶️ How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/MaiEl-bishlawy/Data-Structure.git
-
-
----
-
-# Queue Implementation in C++
-
-This project implements a **Queue (FIFO - First In First Out)** data structure in C++ using two different approaches:
-
----
-
-## 📌 Implementations
-
-### 1. Dynamic Array Queue
-### 2. Linked List Queue
-
----
-
-## ⚙️ Features
-
+### Features:
 - Enqueue (Insert element)
 - Dequeue (Remove element)
-- Peek (Get front element)
+- Peek (Front element)
 - Get rear element
-- Display queue elements
-- Search for an element
-- Count number of elements
+- Display elements
+- Search element
+- Count elements
 - Clear queue
 
 ---
 
-## ⏱️ Time Complexity
+# 🛠️ Technologies Used
+
+- C++
+- Object-Oriented Programming (OOP)
+- Data Structures Concepts
+- CLion / Any C++ IDE
+
+---
+
+# ⏱️ Time Complexity (Queue)
 
 | Operation | Complexity |
 |----------|------------|
 | Enqueue  | O(1)       |
 | Dequeue  | O(1)       |
 | Peek     | O(1)       |
-
----
-
-## 🎯 Purpose
-
-This project is created for learning and practicing:
-
-- Queue (FIFO) data structure
-- Array-based implementation
-- Linked List implementation
-- Basic algorithm analysis
-
----
 
