@@ -231,7 +231,7 @@ public:
 };
 
 signed main() {
-    Go();
+    //Go();
     StaticStack s1;
     s1.push(10);
     s1.push(20);
