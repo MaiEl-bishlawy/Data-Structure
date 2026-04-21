@@ -255,7 +255,6 @@ signed main() {
     s3.push(3);
     s3.push(4);
 
-
     s3.display();
     s3.pop();
     s3.display();
